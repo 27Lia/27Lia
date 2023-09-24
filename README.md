@@ -13,7 +13,7 @@ I am Sunmi Kim, a developer with a lot of curiosity.
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-<br/><br/>
+<br/>
 
 ## most used languages
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=27Lia&show_icons=true&theme=dark)
