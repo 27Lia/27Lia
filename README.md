@@ -3,7 +3,7 @@
 
 
 ## Introduction :raised_hands:
-I am Sunmi Kim, a developer with a lot of curiosity.
+안녕하세요! 호기심이 많은 개발자 김선미입니다. :)
 
  ## Skill :four_leaf_clover:
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
