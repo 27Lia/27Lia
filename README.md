@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20I'm%20sunmi&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Curious%20Developer%20|%20Always%20Learning&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20I'm%20sunmi&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20Always%20Learning&descAlignY=62&descAlign=62)
 
 ## 👋 Introduction 
 안녕하세요! 호기심이 많은 개발자 김선미입니다. 😊
