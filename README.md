@@ -37,9 +37,6 @@
 
 </br>
 
-## 🌟 Achievements
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=27Lia&theme=flat&column=3&margin-w=10&margin-h=15)
-
 ---
 
 👥 **Visitors**: ![Visitor Count](https://profile-counter.glitch.me/27Lia/count.svg)
