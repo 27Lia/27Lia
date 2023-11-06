@@ -31,12 +31,7 @@
 <a href="https://github.com/27Lia/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Lia&langs_count=8&theme=radical" alt="Top Langs" height="200px" />
 </a>
-<a href="https://github.com/27Lia/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=27Lia&show_icons=true&theme=radical" alt="Anurag's GitHub stats" height="200px"/>
-</a>
-
 </br>
 
 ---
 
-👥 **Visitors**: ![Visitor Count](https://profile-counter.glitch.me/27Lia/count.svg)
