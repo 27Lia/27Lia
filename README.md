@@ -23,7 +23,7 @@
 
 ## 📊 GitHub 통계 
 <a href="https://github.com/27Lia/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Lia&langs_count=8&theme=radical" alt="Top Langs" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=27Lia&langs_count=8&theme=radical" alt="Top Langs" height="400px" />
 </a>
 </br>
 
