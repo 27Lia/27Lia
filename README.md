@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello!%20I'm%20sunmi&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%20%20&descAlignY=62&descAlign=78)
+![header](https://readme-decorate.vercel.app/api/get?height=250&width=850&text=Hello%7E+I%27m+SunMi&fontColor=%23ffffff&fontSize=70&type=star&fontWeight=800&gradientColor1=%23A1C4FD&gradientColor2=%23FFDEE9)
 
 </br>
 
