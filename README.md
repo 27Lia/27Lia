@@ -1,6 +1,6 @@
 
 
-![header](https://readme-decorate.vercel.app/api/get?height=250&width=850&text=Hello%7E+I%27m+SunMi&fontColor=%23ffffff&fontSize=70&type=star&fontWeight=800&gradientColor1=%23A1C4FD&gradientColor2=%23FFDEE9)
+![header](https://readme-decorate.vercel.app/api/get?height=250&width=850&text=Froentend%7E+I%27m+SunMi&fontColor=%23ffffff&fontSize=70&type=star&fontWeight=800&gradientColor1=%23A1C4FD&gradientColor2=%23FFDEE9)
 
 </br>
 
