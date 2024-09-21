@@ -1,6 +1,6 @@
 
 
-![SVG Example](https://readme-decorate.vercel.app/api/get?type=wave&text=Hello&width=850&height=250&fontSize=52&fontWeight=800&useGradient=false&fontColor=%2376f91f&backgroundColor=%23ffffff&gradientColor1=&gradientColor2=)
+![SVG Example](https://readme-decorate.vercel.app/api/get?type=wave&text=Hello&width=850&height=250&fontSize=52&fontWeight=800&useGradient=false&fontColor=%2376f91f&backgroundColor=%23000000&gradientColor1=&gradientColor2=)
 </br>
 
 ## 🛠 Skills 
